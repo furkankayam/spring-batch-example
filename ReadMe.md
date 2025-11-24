@@ -1,6 +1,10 @@
 # ⚙️ Spring Batch Example
 
-<br>
+<div>
+<div align="center">
+<h3> Project Architecture </h3>
+<img src="./images/project-architecture.png" alt="Project Architecture">
+</div>
 
 ### Project Summary:
 
